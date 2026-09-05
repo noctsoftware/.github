@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logos/noct-white-w.svg" alt="Noct Logo" width="250"/>
+  <img src="../assets/logos/noct-white-w.svg" alt="Noct Logo" width="250"/>
 </div>
 
 # Noct Software
